@@ -1,3 +1,11 @@
 .section-home {
     background-image: url("../images/luisaprofiletop.jpg");
 }
+
+.section-skills{
+    background-color: #1e1e1e !important;
+}
+
+.section-freelance{
+    background-image: url("../images/luisaprofiletop.jpg");
+}
