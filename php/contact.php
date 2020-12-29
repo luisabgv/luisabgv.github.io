@@ -10,7 +10,7 @@ $fail_message = "Sorry, something went wrong! Please try again.";
 
 //$admin_email = "example@example.com";
 
-$admin_email = 'example@example.com'; //Replace this with your email id
+$admin_email = 'luisabgv@gmail.com'; //Replace this with your email id
 
 $validate = true;
 $name = filter_var($_POST['name'], FILTER_SANITIZE_SPECIAL_CHARS);
