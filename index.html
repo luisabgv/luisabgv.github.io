@@ -883,7 +883,8 @@
 						</div>
 					</div> -->
 					<div class="contact-form mt-5">
-						<form method="post" action="php/contact.php" id="contactForm" data-toggle="validator">
+						<!--<form method="post" action="php/contact.php" id="contactForm" data-toggle="validator"> -->
+						<form id="contactForm" action="https://formspree.io/f/mqkggnyl" method="POST">
 							<h5 class="section-subHead mb-2 text-center"> Dallas, TX</h5>
 							<div class="row">
 								<div class="col-lg-6">
@@ -921,9 +922,10 @@
 							<div class="row">
 								<div class="col-lg-12 mt-4 mb-5 text-center wow fadeInUp" data-wow-duration="1.5s"
 									data-wow-delay=".5s">
-									<button type="submit" class="submitBnt btn hover-state">Send</button>
+									<button id="my-form-button" type="submit" class="submitBnt btn hover-state">Send</button>
 								</div>
 							</div>
+							<h4 id="my-form-status" class="text-center"></h4>
 						</form>
 					</div>
 				</div>
