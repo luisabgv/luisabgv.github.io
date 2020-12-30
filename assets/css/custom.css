@@ -22,3 +22,11 @@
     height: 315px !important;
     object-position: 0 0 !important;
 }
+
+.color-line{
+    color: #E7625F !important;
+}
+
+.color-white{
+    color: #fff;
+}
