@@ -9,3 +9,16 @@
 .section-freelance{
     background-image: url("../images/luisaprofiletop.jpg");
 }
+
+.justify-content-center{
+    justify-content: center !important;
+}
+
+.padding-top-10{
+    padding-top: 10px;
+}
+
+.image-featured-size{
+    height: 315px !important;
+    object-position: 0 0 !important;
+}
